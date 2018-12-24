@@ -1,5 +1,5 @@
 # WebAPIDeisgnPrinciple
 WebAPI Deisgn Principle
 
-- Http method represente action
-- URI represente things
+- Http method represent action
+- URI represent things
