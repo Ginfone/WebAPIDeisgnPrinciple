@@ -6,5 +6,3 @@ WebAPI Deisgn Principle
 - URI represent things
 
 
-Sources:
-https://www.programmableweb.com
